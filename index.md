@@ -20,6 +20,6 @@ Before joining the Banque de France, I was a research fellow at France Stratégi
 ## Work in progress
 
 - **The Collection of Business Information at the Banque de France: History and User Guide of the FIBEN database** with Frédéric Vinas
-- **Floods and firms: the impact of floods on firms' financial performance in France** with Nicoletta Berardi and Paul Vertier
+- **The Impact of Floods on Firm Performance and Relocation Decisions in France** with Nicoletta Berardi and Paul Vertier
  
 {% include_relative _includes/services.md %}
