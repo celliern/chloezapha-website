@@ -13,9 +13,9 @@ Before joining the Banque de France, I was a research fellow at France Stratégi
 - **Corporate finance, banking**
 - **Law and Economics**,  with a focus on corporate bankruptcy
 
-{% include_relative _includes/publications.md %}
-
 {% include_relative _includes/working_papers.md %}
+
+{% include_relative _includes/publications.md %}
 
 ## Work in progress
 
