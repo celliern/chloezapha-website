@@ -1,6 +1,6 @@
 ## Other
 
-<h4 style="margin:0 10px 0;">Short articles</h4>
+<h4 style="margin:0 10px 0;">Blogs and Policy publications</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://www.banque-france.fr/en/publications-and-statistics/publications/court-mergers-have-improved-how-bankruptcies-are-dealt"><autocolor> <strong>Court mergers have improved how bankruptcies are dealt with, </strong> with Anne Epaulard, Jan. 2026, Eco Notepad 428, Banque de France</autocolor></a></li>
