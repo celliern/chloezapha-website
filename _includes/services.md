@@ -3,6 +3,7 @@
 <h4 style="margin:0 10px 0;">Short articles</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><a href="https://www.banque-france.fr/en/publications-and-statistics/publications/court-mergers-have-improved-how-bankruptcies-are-dealt"><autocolor> <strong>Court mergers have improved how bankruptcies are dealt with, </strong> with Anne Epaulard, Jan. 2026, Eco Notepad 428, Banque de France</autocolor></a></li>
   <li><a href="https://www.banque-france.fr/en/publications-and-statistics/publications/state-guaranteed-loans-how-do-firms-choose-repay"><autocolor> <strong>State-guaranteed loans: how do firms choose to repay?, </strong> with Mathias Lé and Frédéric Vinas, Oct. 2024, Eco Notepad 369, Banque de France</autocolor></a></li>
   <li><a href="https://www.banque-france.fr/en/publications-and-statistics/publications/out-court-proceedings-help-companies-exit-crisis"><autocolor> <strong>Out-of-court proceedings to help companies exit the crisis, </strong> with David Fouet, Dec. 2021, Eco Notepad 234, Banque de France</autocolor></a></li>
   <li><a href="https://www.banque-france.fr/en/publications-and-statistics/publications/speed-restructuring-proceedings-response-covid-19"><autocolor> <strong>Speed un restructuring proceedings in response to Covid-19? </strong> Dec. 2020, Eco Notepad 192, Banque de France </autocolor></a></li>
