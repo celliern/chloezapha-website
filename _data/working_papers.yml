@@ -1,9 +1,20 @@
 main:
 
-  - title: Does merging small bankruptcy courts increase their efficiency?
+ - title: The Impact of Floods on Firm Performance and Relocation
+    authors: with Nicoletta Berardi, Paul Vertier, Elie Malhaire, Jules Tapin, <strong>June 2026</strong>
+    conference_short: WP
+    conference: Banque de France - Working Paper WP1047
+    pdf: https://www.banque-france.fr/system/files/2026-06/WP1047.pdf
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    image: ./assets/img/graph_The Impact of Floods on Firm Performance and Relocation_corr.jpg
+    
+    - title: Does merging small bankruptcy courts increase their efficiency?
     authors: with Anne Epaulard, <strong>Oct. 2025</strong>
     conference_short: WP
-    conference: Banque de France - Working Paper WP1015
+    conference: Banque de France - Working Paper WP1015 - R&R JEL
     pdf: https://www.banque-france.fr/system/files/2025-10/WP1015.pdf
     #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
