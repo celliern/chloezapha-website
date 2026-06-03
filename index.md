@@ -3,15 +3,11 @@ layout: homepage
 ---
 ## About me
 
-I am a researcher in the Microeconomic Analysis division at the Banque de France, with expertise in law and economics, corporate finance, and banking.
+I am a researcher in the Microeconomic Analysis division at the Banque de France, previously a research fellow at France Stratégie. I hold a PhD in economics from the LEDa (Université PSL Dauphine, 2023), completed under a CIFRE contract with the Banque de France and supervised by Anne Epaulard.
 
-Before joining the Banque de France, I was a research fellow at France Stratégie. I earned my PhD in economics from the LEDa (Laboratoire d’Économie de Dauphine – Université PSL) in 2023, under the supervision of Anne Epaulard, as part of a CIFRE contract with the Banque de France. My thesis offers an economic analysis of bankruptcy laws in France, focusing in particular on preventive procedures, the rebound of firms after restructuring and the efficiency of (small) commercial courts in deciding whether to save or liquidate distressed firms.
+My work sits at the intersection of applied microeconomics, corporate finance, banking, and law and economics. My dissertation examined bankruptcy law in France — covering preventive procedures, firm recovery after restructuring, and the efficiency of commercial courts in resolving financial distress.
 
-## Research Interests
-
-- **Applied microeconomics**
-- **Corporate finance, banking**
-- **Law and Economics**,  with a focus on corporate bankruptcy
+{% include_relative _includes/publications.md %}
 
 {% include_relative _includes/working_papers.md %}
 
@@ -19,6 +15,4 @@ Before joining the Banque de France, I was a research fellow at France Stratégi
 
 - **The Collection of Business Information at the Banque de France: History and User Guide of the FIBEN database** with Frédéric Vinas
  
-{% include_relative _includes/publications.md %}
-
 {% include_relative _includes/services.md %}
