@@ -1,6 +1,6 @@
 main:
 
- - title: The Impact of Floods on Firm Performance and Relocation
+  - title: The Impact of Floods on Firm Performance and Relocation
     authors: with Nicoletta Berardi, Paul Vertier, Elie Malhaire, Jules Tapin, <strong>June 2026</strong>
     conference_short: WP
     conference: Banque de France - Working Paper WP1047
@@ -11,7 +11,7 @@ main:
     #notes: Oral Presentation
     image: ./assets/img/graph_The Impact of Floods on Firm Performance and Relocation_corr.jpg
     
-    - title: Does merging small bankruptcy courts increase their efficiency?
+  - title: Does merging small bankruptcy courts increase their efficiency?
     authors: with Anne Epaulard, <strong>Oct. 2025</strong>
     conference_short: WP
     conference: Banque de France - Working Paper WP1015
