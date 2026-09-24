@@ -7,6 +7,8 @@ I am a researcher in the Microeconomic Analysis division at the Banque de France
 
 My work sits at the intersection of applied microeconomics, corporate finance, banking, and law and economics. My dissertation examined bankruptcy law in France — covering preventive procedures, firm recovery after restructuring, and the efficiency of commercial courts in resolving financial distress.
 
+**Research interests:** Banking, Corporate Finance, Financial Intermediation, Corporate Bankruptcy, Law and Economics
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/working_papers.md %}
