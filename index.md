@@ -11,12 +11,11 @@ My work sits at the intersection of applied microeconomics, corporate finance, b
 
 {% include_relative _includes/working_papers.md %}
 
+{% include_relative _includes/publications.md %}
+
 ## Work in progress
 
 - **The Collection of Business Information at the Banque de France: History and User Guide of the FIBEN database** with Frédéric Vinas
 - **The Effect of State-Guaranteed Loans on Firms' Financial Performance and Their Access to Finance** with Mathilde Lé
-
-
-{% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
