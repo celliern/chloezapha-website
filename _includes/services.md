@@ -16,3 +16,8 @@
   <li><a href="https://www.youtube.com/watch?v=a55BLYdY3vk"><autocolor> <strong>2023,</strong> Recipient of the "Young Researcher Award" at the 8th Annual Conference of the French Association of Law and Economics (AFED 2023) for the paper titled "Corporate Bankruptcy and the (In-)Efficiency of Small Commercial Courts" </autocolor></a></li>
   <li><autocolor> <strong>2022,</strong> Co-recipient of the "Best Doctoral Paper Award" at the 38th Conference of the French Finance Association (AFFI 2022) for the paper titled "Access to Bank Credit after Emerging From Corporate Bankruptcy"</autocolor></li>
 </ul>
+
+<h4 style="margin:0 10px 0;">PhD Dissertation</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://theses.hal.science/tel-04403507"><autocolor> <strong>An economic analysis of French corporate bankruptcy laws, </strong> Oct. 2023 </autocolor></a>
