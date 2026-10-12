@@ -11,7 +11,7 @@ main:
     #notes: Submitted JEEM
     image: ./assets/img/Fig_Fiben_WP.png
     
-    - title: The Impact of Floods on Firm Performance and Relocation
+  - title: The Impact of Floods on Firm Performance and Relocation
     authors: with Nicoletta Berardi, Paul Vertier, Elie Malhaire, Jules Tapin, <strong>June 2026</strong>
     conference_short: WP
     conference: Banque de France - Working Paper WP1047
