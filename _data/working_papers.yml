@@ -2,7 +2,7 @@ main:
 
   - title: "French Non-Financial Corporate Data: Guidelines, Coverage, Quality, And Starter Code For Banque De France Databases"
     authors: with Frédéric Vinas, <strong>Oct. 2026</strong>
-    conference_short: WP
+    #conference_short: WP
     #conference: Banque de France - Working Paper WP1047
     pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7588279
     #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
@@ -13,7 +13,7 @@ main:
     
   - title: The Impact of Floods on Firm Performance and Relocation
     authors: with Nicoletta Berardi, Paul Vertier, Elie Malhaire, Jules Tapin, <strong>June 2026</strong>
-    conference_short: WP
+    #conference_short: WP
     conference: Banque de France - Working Paper WP1047
     pdf: https://www.banque-france.fr/system/files/2026-06/WP1047.pdf
     #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
@@ -24,7 +24,7 @@ main:
     
   - title: Does merging small bankruptcy courts increase their efficiency?
     authors: with Anne Epaulard, <strong>Oct. 2025</strong>
-    conference_short: WP
+    #conference_short: WP
     conference: Banque de France - Working Paper WP1015
     pdf: https://www.banque-france.fr/system/files/2025-10/WP1015.pdf
     appendix: ./assets/files/Merging_Court_Online-Appendix.pdf
@@ -36,7 +36,7 @@ main:
 
   - title: Access to Bank Credit after Emerging from Corporate Bankruptcy
     authors: <strong>Nov. 2023</strong>
-    conference_short: WP
+    #conference_short: WP
     conference: Banque de France - Working Paper WP928
     pdf: https://www.banque-france.fr/fr/publications-et-statistiques/publications/acces-au-credit-bancaire-des-entreprises-en-restructuration
     #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
