@@ -1,6 +1,17 @@
 main:
 
-  - title: The Impact of Floods on Firm Performance and Relocation
+  - title: French Non-Financial Corporate Data: Guidelines, Coverage, Quality, And Starter Code For Banque De France Databases
+    authors: with Frédéric Vinas <strong>Oct. 2026</strong>
+    conference_short: WP
+    #conference: Banque de France - Working Paper WP1047
+    pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7588279
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Submitted JEEM
+    image: ./assets/img/Fig_Fiben_WP.png
+    
+    - title: The Impact of Floods on Firm Performance and Relocation
     authors: with Nicoletta Berardi, Paul Vertier, Elie Malhaire, Jules Tapin, <strong>June 2026</strong>
     conference_short: WP
     conference: Banque de France - Working Paper WP1047
