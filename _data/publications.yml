@@ -5,6 +5,7 @@ main:
     #conference_short: JEBO
     conference: Journal of Economic Behavior & Organization
     pdf: https://www.sciencedirect.com/science/article/pii/S0167268122000476
+    appendix: ./assets/files/JEBO_Bankruptcy_Costs_Online_Appendix.pdf
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/sauvegarde.png
