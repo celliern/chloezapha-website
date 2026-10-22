@@ -15,6 +15,6 @@ My work sits at the intersection of applied microeconomics, corporate finance, b
 
 ## Work in progress
 
-- **The Effect of State-Guaranteed Loans on Firms' Financial Performance and Their Access to Finance** with Mathilde Lé
+- **The Effect of State-Guaranteed Loans on Firms' Financial Performance and Their Access to Finance** with Mathilde Lê
 
 {% include_relative _includes/services.md %}
