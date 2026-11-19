@@ -10,6 +10,12 @@ main:
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     #notes: Submitted JEEM
     image: ./assets/img/Fig_Fiben_WP.png
+
+  - title: "Tracing Banks' Credit Allocation to their Profits"
+    authors: with Anne Duquerroy, Adrien Matray, Farzad Saidi
+    conference: CEPR Discussion Paper DP17072
+    notes: R&R RoF
+    pdf: https://cepr.org/publications/dp17072
     
   - title: The Impact of Floods on Firm Performance and Relocation
     authors: with Nicoletta Berardi, Paul Vertier, Elie Malhaire, Jules Tapin, <strong>June 2026</strong>
@@ -19,7 +25,7 @@ main:
     #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Submitted JEEM
+    notes: Submitted
     image: ./assets/img/floods_relocation.png
     
   - title: Does merging small bankruptcy courts increase their efficiency?
