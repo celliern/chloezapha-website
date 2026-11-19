@@ -12,7 +12,7 @@ main:
     image: ./assets/img/Fig_Fiben_WP.png
 
   - title: "Tracing Banks' Credit Allocation to their Profits"
-    authors: with Anne Duquerroy, Adrien Matray, Farzad Saidi
+    authors: with Anne Duquerroy, Adrien Matray, Farzad Saidi, <strong>Nov. 2026</strong>
     conference: CEPR Discussion Paper DP17072
     notes: R&R RoF
     pdf: https://cepr.org/publications/dp17072
